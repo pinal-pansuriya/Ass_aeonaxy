@@ -1,0 +1,227 @@
+form{
+    margin-left: 350px;
+}
+
+.page-1{
+    display: flex;
+}
+
+img{
+    width: 700px;
+    height: 850px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+h6{
+    color:rgb(231, 74, 74);
+    margin-top: 10px;
+}
+
+.form{
+    display: flex;
+    gap:20px;
+}
+
+#name{
+    padding-left: 10px;
+}
+
+#Uname{
+    padding-left: 10px;
+}
+
+input{
+    color: aqua;
+    background-color: rgb(233, 118, 118);
+}
+
+#button{
+    background-color: palevioletred;
+    color: aliceblue;
+    border: none;
+    width: 200px;
+    height: 50px;
+}
+
+#header{
+   text-align: right;
+}
+
+.form-1{
+    margin-top: 30px;
+}
+
+#header{
+    margin-top: 30px;
+}
+
+#alert{
+    color: red;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+
+.form{
+    margin-top: 40px;
+}
+
+.page-2{
+    text-align: center;
+    margin-top: 150px;
+}
+
+.page-2 p{
+    margin-top: 20px;
+    margin-right:100px;
+}
+
+#h5{
+    margin-right:350px;
+    margin-top: 50px;
+}
+
+#avtar{
+    margin-top: 20px;
+    margin-left: 650px;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border-style:dotted;
+    border-color: rgb(146, 144, 144);
+}
+
+.page-2 i{
+    padding-top: 65px;
+    color: gray;
+}
+
+.avtar{
+    display:flex;
+}
+
+#btn{
+    border-radius: 5px;
+    border-color:rgb(192, 189, 189);
+    background-color: white;
+    margin-top: 40px;
+    margin-right: 580px;
+    height: 40px;
+    width: auto;
+    padding-left:20px;
+    padding-right: 20px;
+
+}
+
+#p{
+    color: gray;
+    margin-top: 10px;
+    margin-right: 500px;
+}
+
+.p3{
+    margin-left: 30px;
+}
+
+.location{
+    margin-right:340px;
+    margin-top: 70px;
+}
+
+#location{
+    color: rgb(165, 163, 163);
+    margin-right:390px;
+    margin-top: 20px;
+}
+
+#hr{
+    color: rgb(184, 178, 178);
+    width: 600px;
+    margin-left: 645px; 
+}
+
+#btn2{
+    background-color: palevioletred;
+    border: none;
+    color: aliceblue;
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+    margin-top: 50px;
+    margin-right: 300px;
+}
+
+#btn2:hover{
+    background-color: lightpink;
+}
+
+.page-3{
+    text-align: center;
+    margin-top: 150px;
+}
+
+.page-3 i{
+    padding-top: 65px;
+    color: gray;
+}
+
+.page-3 p{
+    margin-top: 20px;
+    margin-right:100px;
+}
+
+#avtar2{
+    margin-top: 20px;
+    margin-left: 650px;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border-color: rgb(146, 144, 144);
+}
+
+#img2{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+#location2{
+    color:black;
+    margin-right:390px;
+    margin-top: 20px;
+}
+
+#btn3{
+    background-color: palevioletred;
+    border: none;
+    color: aliceblue;
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+    margin-top: 40px;
+    margin-right: 300px;
+}
+
+.footer{
+    display: flex;
+    color: gray;
+    gap:5px;
+    margin-left: 700px;
+    margin-top: 10px;
+}
+
+.footer h6{
+    font-size: 10px;
+    margin-top: 2px;
+}
+
+.footer h5{
+    font-size: 11px;
+    margin-top: 2px;
+}
+
+.footer h4{
+    font-size: 12px;
+    color:gray;
+    margin-top: 1px;
+}
