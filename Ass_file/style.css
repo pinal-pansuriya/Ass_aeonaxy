@@ -494,6 +494,7 @@ span {
     margin-left: 250px;
     margin-right: 250px;
     height: 50px;
+    width: 1300px;
 }
 
 .email_footer {
@@ -547,7 +548,6 @@ span {
 
 #footerl {
     color: rgb(166, 166, 166);
-    ;
 }
 
 #email_d1 {
